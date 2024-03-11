@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "hXxgkFkrmcvyO5/hY6VxgHRQ7ldvEiOEdk9D8I/NAQAWVJKN6JtbJfpYxru1OZH0Vwc4sDNWqXcnbLIW1hStqQ==",
+  "success": true,
+  "projectFilePath": "/Users/marcosrodriguez/Documents/CodeStack/level 3/week 3/week3day1-newwebapi/week3day1-newwebapi.csproj",
+  "expectedPackageFiles": [
+    "/Users/marcosrodriguez/.nuget/packages/microsoft.aspnetcore.openapi/7.0.10/microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "/Users/marcosrodriguez/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/marcosrodriguez/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/marcosrodriguez/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/marcosrodriguez/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/marcosrodriguez/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/marcosrodriguez/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
